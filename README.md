@@ -7,3 +7,5 @@ This repo serves at a centralized point for notes on building an EC2 instance fo
 ### [sysadmin](sysadmin)
 
 ### [links](links)
+
+Some of these materials have been adapted from Chen-lab training github repo [chenlab-training](https://github.com/swainechen/chenlab-training)
